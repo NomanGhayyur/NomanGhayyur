@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **nomanghayyur96@gmail.com**
 
-<br/>
+
 
 <h2 align="center">Connect with Me !! 🤝</h2> 
 
