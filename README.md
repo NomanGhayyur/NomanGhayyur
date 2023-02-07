@@ -1,5 +1,7 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Noman Ghayyur</h1>
 <h3 align="center">A passionate frontend developer</h3>
+<img align="right" alt="nomanghayyur" width="400" src="https://outlane.co/now/new-shot-programmer-animation/">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nomanghayyur&label=Profile%20views&color=0e75b6&style=flat" alt="nomanghayyur" /> </p>
 
@@ -7,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/noman_ghayyur" target="blank"><img src="https://img.shields.io/twitter/follow/noman_ghayyur?logo=twitter&style=for-the-badge" alt="noman_ghayyur" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+
 
 - 🔭 I’m currently working on **Customer Relationship Management**
 
