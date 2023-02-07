@@ -27,16 +27,15 @@
 <a href="https://github.com/advaith-unnikrishnan" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/advaithu/" target="_blank">
+<a href="https://www.linkedin.com/in/nomanghayyur/" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://twitter.com/advaith_u" target="_blank">
+<a href="https://twitter.com/noman_ghayyur" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://blog.advaith.co/">
-<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
-<a href="mailto:advaithunni2000@gmail.com">
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.behance.net/nomighayyur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="nomighayyur" height="30" width="40" />
+<img alt="Behance" src="https://cdn.cdnlogo.com/logos/b/73/behance.svg" />
+ </a>
 </p> 
 
 ----
