@@ -10,8 +10,8 @@
 <p align="left"> <a href="https://twitter.com/noman_ghayyur" target="blank"><img src="https://img.shields.io/twitter/follow/noman_ghayyur?logo=twitter&style=for-the-badge" alt="noman_ghayyur" /></a> </p>
 
 
-<img align="right" alt="nomanghayyur" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-- 🔭 I’m currently working on **Customer Relationship Management**
+<img align="right" alt="nomanghayyur" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+- 🔭 I’m currently working on **Customer Relationship Management System**
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
