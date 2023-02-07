@@ -32,7 +32,7 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
   <a href="https://www.behance.net/nomighayyur" target="blank">
-<img alt="Behance" src="https://cdn.cdnlogo.com/logos/b/73/behance.svg" height="30" width="60" />
+<img alt="Behance" src="https://img.shields.io/badge/behance%20-%230077B5.svg?&style=for-the-badge&logo=behance&logoColor=white"/>
  </a>
 </p> 
 
