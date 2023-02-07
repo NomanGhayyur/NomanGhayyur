@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Noman Ghayyur</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="nomanghayyur" width="400" src="[https://outlane.co/now/new-shot-programmer-animation/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXNrak45S0xOUGxGcnB4Qk5PM2Q1MjhudmNRZ3xBQ3Jtc0tsSzFuZWhMaDlkMEl2aVlGcUk2QmRVZ21sS1ZhMVRoRC1zV2RfUkxRV1pFYzQxdmx6ZVNVM3JfalBxTUNiMFVEVUZ1cnhtS01YYVVWZkFLakFkbzNtdFF2amF2RmNpUGhhTzBkTUlSWllPQ3R4N1NoVQ&q=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&v=G-EGDH50hGE)">
+<img align="right" alt="nomanghayyur" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nomanghayyur&label=Profile%20views&color=0e75b6&style=flat" alt="nomanghayyur" /> </p>
 
