@@ -24,7 +24,7 @@
 <h2 align="center">Connect with Me !! 🤝</h2> 
 
 
-<span style="margin-left: 20px;">
+<span style="margin: auto;">
 <a href="https://www.linkedin.com/in/nomanghayyur/" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
