@@ -1,7 +1,7 @@
 [![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)]
 <h1 align="center">Hi 👋, I'm Noman Ghayyur</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="nomanghayyur" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nomanghayyur&label=Profile%20views&color=0e75b6&style=flat" alt="nomanghayyur" /> </p>
 
@@ -20,6 +20,7 @@
 - 💬 Ask me about **ReactJs, NextJs, UI libraries & Styled Components**
 
 - 📫 How to reach me **nomanghayyur96@gmail.com**
+<img align="right" alt="nomanghayyur" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
