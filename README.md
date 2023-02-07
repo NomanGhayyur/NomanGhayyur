@@ -24,7 +24,7 @@
 <h2 align="center">Connect with Me !! 🤝</h2> 
 
 
-
+<span align="center">
 <a href="https://www.linkedin.com/in/nomanghayyur/" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -34,7 +34,7 @@
   <a href="https://www.behance.net/nomighayyur" target="blank">
 <img alt="Behance" src="https://img.shields.io/badge/behance%20-%230077A5.svg?&style=for-the-badge&logo=behance&logoColor=white"/>
  </a>
- 
+  </span>
 </span>
 
 ----
