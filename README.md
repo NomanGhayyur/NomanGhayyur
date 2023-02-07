@@ -44,8 +44,10 @@
 
 [![Noman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nomanghayyur&theme=github-compact)](https://github.com/nomanghayyur/github-readme-activity-graph)
 
+<span align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nomanghayyur&show_icons=true&locale=en&layout=compact" alt="nomanghayyur" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nomanghayyur&show_icons=true&locale=en" alt="nomanghayyur" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nomanghayyur&" alt="nomanghayyur" /></p>
+</span
