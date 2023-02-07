@@ -20,7 +20,7 @@
 - 📫 How to reach me **nomanghayyur96@gmail.com**
 
 
-
+<span align="center">
 <h2 align="center">Connect with Me !! 🤝</h2> 
 
 <p align="center">
@@ -35,7 +35,7 @@
 <img alt="Behance" src="https://img.shields.io/badge/behance%20-%230077A5.svg?&style=for-the-badge&logo=behance&logoColor=white"/>
  </a>
 </p> 
-
+</span>
 ----
 
 <h3 align="left">Languages and Tools:</h3>
