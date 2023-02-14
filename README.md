@@ -1,5 +1,4 @@
 ![MasterHead](https://github.com/NomanGhayyur/NomanGhayyur/blob/main/noman.jpg)
-<h1 align="center">Hi 👋, I'm Noman Ghayyur</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 
