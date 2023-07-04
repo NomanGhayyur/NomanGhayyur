@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
-- 👯 I’m looking to collaborate on **I'm looking to collaborate on any open source projects using ReactJs & NextJs**
+- 👯 I’m looking to collaborate on any open source projects using **ReactJs & NextJs**
 
 - 💬 Ask me about **ReactJs, NextJs, UI libraries & Styled Components**
 
