@@ -1,5 +1,5 @@
-#![MasterHead](https://github.com/NomanGhayyur/NomanGhayyur/blob/main/noman.jpg)
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=NomanGhayyur&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/NomanGhayyur)
+//![MasterHead](https://github.com/NomanGhayyur/NomanGhayyur/blob/main/noman.jpg)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=NomanGhayyur&data=followers,repositories,stars,commits&theme=viridescent)]
 <h3 align="center">A passionate MERN Stack developer</h3>
 
 
