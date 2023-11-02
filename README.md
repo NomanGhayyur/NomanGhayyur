@@ -1,6 +1,6 @@
-<>
+
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=NomanGhayyur&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/NomanGhayyur)
-</>
+
 <h3 align="center">A passionate MERN Stack developer</h3>
 
 
