@@ -58,6 +58,9 @@
       <td align="center">
       <img alt="javascript" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     </td>
+        <td align="center">
+ <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
+     </td> 
        <td align="center">
        <img alt="html5" height=64px src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
      </td> 
@@ -93,9 +96,6 @@
      </td> 
        <td align="center">
        <img alt="debian" height=64px src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-     </td> 
-       <td align="center">
- <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
      </td>  
     <td align="center">
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
