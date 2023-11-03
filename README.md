@@ -141,7 +141,7 @@
  </p>
 </details>
 
-[![Noman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nomanghayyur)](https://github.com/nomanghayyur/github-readme-activity-graph)
+[![Noman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nomanghayyur)](https://github.com/nomanghayyur/github-readme-activity-graph)
 [![Noman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nomanghayyur)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <span align="center">
