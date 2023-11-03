@@ -141,7 +141,8 @@
  </p>
 </details>
 
-[![Noman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nomanghayyur&theme=github)](https://github.com/nomanghayyur/github-readme-activity-graph)
+[![Noman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nomanghayyur)](https://github.com/nomanghayyur/github-readme-activity-graph)
+[![Noman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nomanghayyur)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <span align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nomanghayyur&show_icons=true&locale=en&layout=compact" alt="nomanghayyur" /></p>
