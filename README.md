@@ -9,7 +9,7 @@
 
 
 
-<img align="right" alt="nomanghayyur" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="nomanghayyur" width="400" src="https://th.bing.com/th/id/OIG.wWg7Fyeb8zU.l7MsH3yM?pid=ImgGn">
 - 🔭 I’m currently working on **Customer Relationship Management System**
 
 - 🌱 I’m currently learning **MERN Stack Development**
